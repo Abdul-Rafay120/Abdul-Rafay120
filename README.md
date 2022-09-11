@@ -5,6 +5,6 @@
 - 📫 How to reach me [Linked in](https://www.linkedin.com/in/abdul-rafay-905579206/)
 
 <!---
-Abdul-Rafay120/Abdul-Rafay120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Abdul-Rafay120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
